@@ -1,7 +1,7 @@
 # T-Pot Honeypot Deployment on Azure Cloud
 
 ## Objective
-The **T-Pot Honeypot Deployment** project aimed to deploy an advanced honeypot solution in the Azure cloud environment to simulate vulnerable systems and detect potential cyber threats. This project provided hands-on experience in configuring Linux systems, network settings, and cloud security. It also enhanced my expertise in threat detection through active monitoring and analysis of honeypot data, allowing me to observe how attackers exploit vulnerabilities to compromise systems.
+The **T-Pot Honeypot Deployment** project aimed to deploy an advanced honeypot in the Azure cloud environment to simulate vulnerable systems and detect potential cyber threats. This project provided hands-on experience in configuring Linux systems, network settings, and cloud security. It also enhanced my expertise in threat detection through active monitoring and analysis of honeypot data, allowing me to observe how attackers exploit vulnerabilities to compromise systems.
 
 ### Skills Learned
 - **Proficiency** in Linux OS and command-line interface for configuration and administration.
@@ -11,7 +11,7 @@ The **T-Pot Honeypot Deployment** project aimed to deploy an advanced honeypot s
 - **Expertise in implementing robust security measures** to protect sensitive information and mitigate security risks in cloud environments.
 
 ### Tools Used
-- **T-Pot honeypot solution** for simulating vulnerable systems and capturing attack data.
+- **T-Pot honeypot** for simulating vulnerable systems and capturing attack data.
 - **Azure Cloud Platform** for deploying and managing the honeypot environment.
 - **Linux OS** as the foundation for T-Pot deployment and configuration.
 - **PuTTY** for remotely managing the Azure Linux VM via SSH, allowing installation and configuration of T-Pot.
